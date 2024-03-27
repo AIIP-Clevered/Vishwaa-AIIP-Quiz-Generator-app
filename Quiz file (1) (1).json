@@ -1,0 +1,38 @@
+{
+  "question": [
+    "Q1. What is Batman's real name?",
+    "Q2. Which city is the capital of India?",
+    "Q3. Smallest State of India?",
+    "Q4. Where is Taj Mahal Located?",
+    "Q5. What is the largest planet in our solar system?",
+    "Q6. Who wrote the play 'Romeo and Juliet'?",
+    "Q7. What is the chemical symbol for gold?",
+    "Q8. Which country is known as the Land of the Rising Sun?",
+    "Q9. What is the capital of France?",
+    "Q10. Who is known as the father of computer science?"
+  ],
+  "answer": [
+    1,
+    2,
+    3,
+    2,
+    1,
+    2,
+    3,
+    4,
+    2,
+    4
+  ],
+  "options": [
+    ["Bruce Wayne", "Bruce Banner", "Barry Allen", "Clark Kent"],
+    ["Jaipur", "Delhi", "Chennai", "Mumbai"],
+    ["Rajasthan", "Punjab", "Goa", "Bihar"],
+    ["Lucknow", "Agra", "Bhopal", "Delhi"],
+    ["Jupiter", "Mars", "Earth", "Venus"],
+    ["Oscar Wilde", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    ["Ag", "Au", "Fe", "Hg"],
+    ["China", "Japan", "South Korea", "Vietnam"],
+    ["Lyon", "Paris", "Marseille", "Toulouse"],
+    ["Albert Einstein", "Isaac Newton", "Charles Darwin", "Alan Turing"]
+  ]
+}
